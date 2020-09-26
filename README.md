@@ -1,3 +1,3 @@
-# sevven-self-bot
-Meu selfbot para discord (desatualizado porem se colocar as packages certinho ainda funciona
-)
+# selfbot by:Sevven言#0171
+Hospeda na repl.it 
+Alterar somente a config para o token
