@@ -1,0 +1,25 @@
+{
+  "name": "s3vv3n-self-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "</Sevven言>",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "jimp": "^0.16.0",
+    "moment": "^2.26.0",
+    "node-fetch": "^2.6.0",
+    "quick.db": "^7.1.1",
+    "request-promise": "^4.2.6",
+    "snekfetch": "^4.0.4",
+    "weather-js": "^2.0.0"
+  }
+}
